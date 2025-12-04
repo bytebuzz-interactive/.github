@@ -22,7 +22,7 @@ Whether you need a high-performance application, a complete brand identity, or p
 | **Damilare Osibanjo**     | **Main Full Stack Developer** | System Architecture, Backend Engineering & Integrations  |
 | **Fawehinmi Eriolouwa**   | **Mobile Developer**          | Native & Cross-Platform Mobile Development (iOS/Android) |
 | **Mohie Daniel**          | **Front End Developer**       | UI/UX Implementation, Web Interactivity & Performance    |
-| **[Add Name – Optional]** | **Creative Media Specialist** | Photography, Videography, Editing & Graphic Design       |
+| **Ephraim Imoneroh** | **Creative Media Specialist** | Photography, Videography, Editing & Graphic Design       |
 
 ---
 
