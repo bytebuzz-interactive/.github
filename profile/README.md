@@ -1,99 +1,62 @@
-<!--
-INSTRUCTIONS:
+# ByteBuzz Interactive
 
-Upload this file as the README.md in your organization's specialized repository (usually named the same as the user/org, e.g., https://www.google.com/search?q=github.com/ByteBuzz-Interactive/ByteBuzz-Interactive).
+### Digital Services Partnership
 
-Replace the https://www.google.com/search?q=%23 links with actual GitHub profile URLs or LinkedIn URLs.
--->
+*Modern solutions. Clean engineering. Creative excellence.*
 
-<div align="center">
+---
 
-<!-- Logo Placeholder: If you have a logo, replace the src below. If not, delete the img tag. -->
+## 🚀 About Us
 
-<img src="https://www.google.com/search?q=https://via.placeholder.com/150/000000/FFFFFF/%3Ftext%3DByteBuzz" alt="ByteBuzz Logo" width="120" height="120">
+**ByteBuzz Interactive** is a multidisciplinary digital services partnership specializing in modern software engineering, creative media, and user-centered design. We combine strong technical expertise with high-quality creative production to deliver products that are scalable, intuitive, and visually compelling.
 
-ByteBuzz Interactive
+Whether you need a high-performance application, a complete brand identity, or professional media content, our team ensures end-to-end execution—from concept to deployment.
 
-Digital Services Partnership
+---
 
-<p>
-<em>Building modern web and mobile applications with clean code, scalable design, and seamless user experiences.</em>
-</p>
+## 👥 The Core Team
 
-</div>
+| Team Member               | Role                          | Focus Area                                               |
+| ------------------------- | ----------------------------- | -------------------------------------------------------- |
+| **Ochefu Anthony**        | **Head of Management**        | Project Strategy, Operations & Client Relations          |
+| **Damilare Osibanjo**     | **Main Full Stack Developer** | System Architecture, Backend Engineering & Integrations  |
+| **Fawehinmi Eriolouwa**   | **Mobile Developer**          | Native & Cross-Platform Mobile Development (iOS/Android) |
+| **Mohie Daniel**          | **Front End Developer**       | UI/UX Implementation, Web Interactivity & Performance    |
+| **[Add Name – Optional]** | **Creative Media Specialist** | Photography, Videography, Editing & Graphic Design       |
 
-🚀 About Us
+---
 
-We are ByteBuzz Interactive, a collaborative partnership of specialized developers and strategists. We bridge the gap between complex technical requirements and intuitive user experiences. Our focus is on delivering high-performance digital products that scale.
+## 🛠️ Technical & Creative Capabilities
 
-👥 The Core Team
+### **Software & Engineering Services**
 
-<div align="center">
-<table>
-<thead>
-<tr>
-<th align="left" width="250">Team Member</th>
-<th align="left" width="250">Role</th>
-<th align="left" width="300">Focus Area</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<a href="https://www.google.com/search?q=%23"><strong>Ochefu Anthony</strong></a>
-</td>
-<td>
-<strong>Head of Management</strong>
-</td>
-<td>
-Project Strategy, Operations & Client Relations
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://www.google.com/search?q=%23"><strong>Damilare Osibanjo</strong></a>
-</td>
-<td>
-<strong>Main Full Stack Developer</strong>
-</td>
-<td>
-System Architecture, Backend Logic & Integrations
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://www.google.com/search?q=%23"><strong>Fawehinmi Eriolouwa</strong></a>
-</td>
-<td>
-<strong>Mobile Developer</strong>
-</td>
-<td>
-Native & Cross-Platform Mobile Solutions (iOS/Android)
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://www.google.com/search?q=%23"><strong>Mohie Daniel</strong></a>
-</td>
-<td>
-<strong>Front End Developer</strong>
-</td>
-<td>
-UI/UX Implementation, Interactivity & Web Performance
-</td>
-</tr>
-</tbody>
-</table>
-</div>
+* Full Stack Web Development
+* Mobile App Development (iOS & Android)
+* API Development & Systems Integration
+* UI/UX Design & Front-End Engineering
+* DevOps, Cloud Deployment & Infrastructure Setup
 
-🛠️ Technical Capabilities
+### **Creative & Media Services**
 
-Web Development
+* Professional Photography
+* Videography & Video Production
+* Photo Retouching & Video Editing
+* Motion Graphics & Visual Effects
+* Branding & Graphic Design
+* Logo Creation & Visual Identity Systems
 
-Mobile Development
+---
 
-DevOps & Tools
+## 🎯 Why Choose ByteBuzz Interactive?
+
+* Clean, scalable code
+* High-performing applications and interfaces
+* Professional creative media for brand growth
+* Transparent collaboration and communication
+* Efficient delivery and modern tech stacks
+
+---
 
 <div align="center">
-<p>© 2024 ByteBuzz Interactive. All Rights Reserved.</p>
+© 2024 ByteBuzz Interactive. All Rights Reserved.
 </div>
